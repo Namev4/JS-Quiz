@@ -1,3 +1,3 @@
-## Javascript quiz example
+## Javascript Quiz App
 
-a simple quiz application to practice object orientend programming in Javascript
+Simple Quizz App to practice OOP in JS
